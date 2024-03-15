@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Hassapp-client</string>
     <string name="username">Username</string>
+    <string name="logo_for_haas">logo_desc</string>
+    <string name="Log_in_button_text">Log In</string>
+
 </resources>
