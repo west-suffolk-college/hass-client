@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <ImageView
+
         android:id="@+id/HAAS_logo"
         android:layout_width="243dp"
         android:layout_height="540dp"
