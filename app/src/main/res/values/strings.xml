@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hassapp-client</string>
+    <string name="username">Username</string>
 </resources>
